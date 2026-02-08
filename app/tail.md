@@ -1,5 +1,3 @@
-Perfeito! Vou te mostrar como criar um script simples que simula a geração de logs, e outro terminal que acompanha esses logs com tail -f.
-
 🎯 Objetivo:
 
 - Um script que escreve uma nova linha de log a cada 2 segundos.
