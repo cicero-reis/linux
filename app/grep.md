@@ -1,5 +1,3 @@
-Boa! 😄 Agora vamos fazer buscas dentro do arquivo `meu_log.txt` para localizar textos específicos. O comando ideal para isso é o clássico:
-
 ### 🔍 grep
 
 #### Exemplo básico:
@@ -39,12 +37,6 @@ grep -C 2 "automatica" meu_log.txt
 Isso mostra 2 linhas antes e 2 depois da linha encontrada.
 
 ---
-
-### 👀 E se quiser monitorar e filtrar ao mesmo tempo?
-
-Você pode usar grep com tail -f:
-
-```bash
 tail -f meu_log.txt | grep "erro"
 ```
 
