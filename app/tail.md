@@ -38,10 +38,3 @@ Ele começará a escrever no arquivo meu_log.txt indefinidamente.
 ```bash
 tail -f meu_log.txt
 ```
-
-Você verá as novas entradas aparecendo em tempo real!
-
-✨ Dica extra:
-Você pode parar o script com `Ctrl+C` quando quiser.
-
-Se quiser, posso adaptar para logs de erro, logs randômicos ou outra coisa divertida. É só dizer!
